@@ -1,0 +1,17 @@
+
+body {
+    
+background-image:url("/S.jpg") ;
+background-attachment:fixed ;
+background-repeat: no-repeat;
+background-position: center;
+
+    font: 100%;
+    margin: 20px;
+    line-height: 26px;
+}
+#top {
+    background-color: blueviolet;
+    color: black;
+    padding: 15px;
+}
